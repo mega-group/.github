@@ -1,12 +1,24 @@
-## Hi there 👋
+# Welcome to our github organization
 
-<!--
+[Join The Discord](https://discord.gg/J9N6evPF8Y)
 
-**Here are some ideas to get you started:**
+[GitHub Discussions](https://github.com/orgs/mega-group/discussions)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Mega Utilities Ecosystem
+We do a lot so here's our other stuff!
+
+[ACHNetwork GitHub](https://github.com/Anything-can-happen)
+
+[Fusion Company GitHub](https://github.com/FS-Company)
+
+[Mega Bot's GitHub](https://github.com/mmu-mega-bots)
+
+[mega-api GitHub](https://github.com/mega-api)
+
+[Mega Utilities GitHub](https://github.com/roleplay-utilities)
+
+[Mega Games GitHub](https://github.com/os-mega-games)
+
+[Mega Systems GitHub](https://github.com/mu-mega-systems)
+
+[Mega Network GitHub](https://github.com/mega-network)
