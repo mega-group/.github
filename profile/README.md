@@ -11,7 +11,7 @@ We do a lot so here's our other stuff!
 
 [Fusion Company GitHub](https://github.com/FS-Company)
 
-[Mega Bot's GitHub](https://github.com/mmu-mega-bots)
+[Mega Bot's GitHub](https://github.com/mu-mega-bots)
 
 [mega-api GitHub](https://github.com/mega-api)
 
